@@ -1,8 +1,8 @@
 Data-Management-and-Visualization-Lab-Assignments
 Student Details
-Name: Soumik Bhunia
+Name: Poulomi Das
 Course: B.Tech CSE (7B)
-Enrollment No.: A91005222051
+Enrollment No.: A91005222133
 Course: Data Management and Visualization
 Course Code: CSE446
 University: Amity University Kolkata
